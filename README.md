@@ -1,6 +1,6 @@
 # data mining bookmarks
 
-Even though there're no book...
+Even though there're no book... there are bookmarks 😀
 
 <a href="http://web.engr.illinois.edu/~hanj/">Jiawei Han<a>
 
