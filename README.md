@@ -6,5 +6,8 @@ Even though there're no book...
 
 <a href="http://www.cs.sfu.ca/~jpei/">Pei Jian<a>
 
+<a href="http://perer.org/">http://perer.org/</a>
+- frequent pattern visualization
+
 <a href="http://www.cs.berkeley.edu/~haoyuan/">Haoyuan Li<a>
 - PFP (parallel FP-Growth algorithm), implemented in Apache Spark
