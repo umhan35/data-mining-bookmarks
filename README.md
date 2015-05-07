@@ -7,7 +7,11 @@ Even though there's no book... there are bookmarks 😀
 <a href="http://www.cs.sfu.ca/~jpei/">Pei Jian<a>
 
 <a href="http://perer.org/">Adam Perer</a>
-- frequent pattern visualization
+- Frequence (frequent pattern visualization)
 
 <a href="http://www.cs.berkeley.edu/~haoyuan/">Haoyuan Li<a>
 - PFP (parallel FP-Growth algorithm), implemented in Apache Spark
+
+Lan Vu
+- <a href="http://gradworks.umi.com/36/67/3667246.html">High performance methods for frequent pattern mining</a>
+  - including for different data characteristics
