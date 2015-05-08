@@ -6,6 +6,9 @@ Even though there's no book... there are bookmarks 😀
 
 <a href="http://www.cs.sfu.ca/~jpei/">Pei Jian<a>
 
+[Charu Aggarwal](http://charuaggarwal.net)
+- wrote many books
+
 <a href="http://perer.org/">Adam Perer</a>
 - Frequence (frequent pattern visualization)
 
